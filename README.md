@@ -1,2 +1,2 @@
-# NODE.js practice
+# NODEjs practice
 Reading file and saving it to another catalog using fs.readdir and fs.writeFile.
